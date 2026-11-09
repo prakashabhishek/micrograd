@@ -1,0 +1,2 @@
+# micrograd
+karpathy micrograd tutorial
